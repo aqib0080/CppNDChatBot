@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include/wx-3.0"  ,
+                "/usr/include/wx-3.0/wx", 
+                "/usr/lib/x86_64-linux-gnu/wx/include/base-unicode-3.0/wx"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+
+        }
+    ],
+    "version": 4
+}

@@ -6,19 +6,37 @@
 
 #IncludeRegexTransform: 
 
-/home/workspace/CppND-Memory-Management-Chatbot/src/chatbot.h
+/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/chatbot.cpp
+iostream
+-
+random
+-
+algorithm
+-
+ctime
+-
+chatlogic.h
+/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/chatlogic.h
+graphnode.h
+/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/graphnode.h
+graphedge.h
+/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/graphedge.h
+chatbot.h
+/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/chatbot.h
+
+/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/chatbot.h
 wx/bitmap.h
 -
 string
 -
 
-/home/workspace/CppND-Memory-Management-Chatbot/src/chatgui.h
+/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/chatgui.h
 wx/wx.h
 -
 memory
 -
 
-/home/workspace/CppND-Memory-Management-Chatbot/src/chatlogic.cpp
+/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/chatlogic.cpp
 fstream
 -
 sstream
@@ -34,15 +52,15 @@ tuple
 algorithm
 -
 graphedge.h
-/home/workspace/CppND-Memory-Management-Chatbot/src/graphedge.h
+/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/graphedge.h
 graphnode.h
-/home/workspace/CppND-Memory-Management-Chatbot/src/graphnode.h
+/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/graphnode.h
 chatbot.h
-/home/workspace/CppND-Memory-Management-Chatbot/src/chatbot.h
+/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/chatbot.h
 chatlogic.h
-/home/workspace/CppND-Memory-Management-Chatbot/src/chatlogic.h
+/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/chatlogic.h
 
-/home/workspace/CppND-Memory-Management-Chatbot/src/chatlogic.h
+/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/chatlogic.h
 vector
 -
 string
@@ -50,21 +68,35 @@ string
 memory
 -
 chatgui.h
-/home/workspace/CppND-Memory-Management-Chatbot/src/chatgui.h
+/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/chatgui.h
 
-/home/workspace/CppND-Memory-Management-Chatbot/src/graphedge.h
+/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/graphedge.cpp
+graphnode.h
+/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/graphnode.h
+graphedge.h
+/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/graphedge.h
+
+/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/graphedge.h
 vector
 -
 string
 -
 
-/home/workspace/CppND-Memory-Management-Chatbot/src/graphnode.h
+/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/graphnode.cpp
+graphedge.h
+/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/graphedge.h
+graphnode.h
+/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/graphnode.h
+
+/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/graphnode.h
 vector
 -
 string
+-
+memory
 -
 chatbot.h
-/home/workspace/CppND-Memory-Management-Chatbot/src/chatbot.h
+/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/chatbot.h
 
 /usr/include/wx-3.0/wx/accel.h
 wx/defs.h
@@ -803,6 +835,8 @@ wx/os2/dialog.h
 /usr/include/wx-3.0/wx/wx/os2/dialog.h
 
 /usr/include/wx-3.0/wx/dirdlg.h
+wx/defs.h
+/usr/include/wx-3.0/wx/wx/defs.h
 wx/dialog.h
 /usr/include/wx-3.0/wx/wx/dialog.h
 wx/generic/dirdlgg.h

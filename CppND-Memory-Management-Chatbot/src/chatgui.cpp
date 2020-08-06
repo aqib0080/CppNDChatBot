@@ -10,7 +10,7 @@
 const int width = 414;
 const int height = 736;
 
-// wxWidgets App
+// wxWidgets APP
 IMPLEMENT_APP(ChatBotApp);
 
 std::string dataPath = "../";

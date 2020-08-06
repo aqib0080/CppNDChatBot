@@ -28,9 +28,9 @@ public:
     ~ChatBot();
 
     //copy constructor
-    ChatBot(const ChatBot &source);
+    ChatBot(const ChatBot& source);
     //copy assignment operator
-    ChatBot &operator= (const ChatBot &source);
+    ChatBot &operator= (const ChatBot& source);
     //move constructor
     ChatBot(ChatBot &&source);
     //move assignment operator
