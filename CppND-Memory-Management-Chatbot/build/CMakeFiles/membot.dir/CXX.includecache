@@ -36,30 +36,6 @@ wx/wx.h
 memory
 -
 
-/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/chatlogic.cpp
-fstream
--
-sstream
--
-iostream
--
-vector
--
-iterator
--
-tuple
--
-algorithm
--
-graphedge.h
-/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/graphedge.h
-graphnode.h
-/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/graphnode.h
-chatbot.h
-/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/chatbot.h
-chatlogic.h
-/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/chatlogic.h
-
 /home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/chatlogic.h
 vector
 -
@@ -70,23 +46,11 @@ memory
 chatgui.h
 /home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/chatgui.h
 
-/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/graphedge.cpp
-graphnode.h
-/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/graphnode.h
-graphedge.h
-/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/graphedge.h
-
 /home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/graphedge.h
 vector
 -
 string
 -
-
-/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/graphnode.cpp
-graphedge.h
-/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/graphedge.h
-graphnode.h
-/home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/graphnode.h
 
 /home/nanodegree/workspace/CppND_Projects/CppND-Memory-Management-Chatbot/src/graphnode.h
 vector
